@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zia1481
+- 👋 Hi, I’m ZIA UD DIN
 - 👀 I’m interested in mobile app development 
 - 🌱 I’m currently learning React JS/ Native
 - 💞️ I’m looking to collaborate on React projects
