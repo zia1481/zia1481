@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ZIA UD DIN
 - 👀 I’m interested in mobile app development 
-- 🌱 I’m currently learning React JS/ Native
-- 💞️ I’m looking to collaborate on React projects
+- 🌱 I’m currently working with .Net framework, SQL Server, React JS/ Native, Wordpress, and other delvelopment tools
+- 💞️ I’m looking to collaborate on React and other projects
 - 📫 How to reach me @zia1481
 
 <!---
